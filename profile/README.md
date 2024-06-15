@@ -66,7 +66,7 @@ install it locally using **yarn**
 
 ```
 $ git clone https://github.com/ETT-DISLODGED/frontend
-$ cd frontend-main
+$ cd frontend
 $ yarn
 $ yarn dev
 ```
