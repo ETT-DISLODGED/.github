@@ -18,7 +18,7 @@
   <br>
 - [프로젝트타임라인 및 팀원소개(Timeline)](#프로젝트타임라인)
   <br>
-
+- [스택(Stack)](#스택)
   <br>
 - [서비스구조도(Architecture & User flow)](#서비스구조도)
   <br>
@@ -27,19 +27,19 @@
 <br>
 <br>
 
-## 문제정의
+## 문제정의 🗯️
 1. 많은 현대인들이 현실에서 다양한 고민을 솔직하게 표출하는 것에 어려움을 겪고 있는 것과 익명 커뮤니티의 높은 이용률을 확인
 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/c6e21341-d0a8-44d3-ae70-4d778b17a308"  width="800" >
 <br>
-<br>
+
 2.기존 텍스트 기반 위로의 한계점 파악
 가독성 저하 등 위로에 대한 방해 요소 존재
 대면 소통에 비해 감정 전달이 어려워 유저들이 고립감을 느끼기 쉬움.
 <br>
 <br>
 
-## 해결책
+## 해결책 💡
 - 논문을 통해 ‘목소리’ 가 사람의 정서에 미치는 높은 영향력을 파악<br> → 텍스트와 ‘보이스 위로’를 함께 전하는 색다른 해결책 제안 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/4cf7914a-8410-4262-b98d-d72d072acefc"  width="800" >
 
@@ -50,7 +50,8 @@
 ## 시작가이드
 
 ### (1) 개발 환경
-Django v4.1 , React v18.2.0
+- Django v4.1 
+- React v18.2.0
 
 
 <br>
@@ -80,26 +81,22 @@ $ yarn dev
 <br>
 
 
-## STACK
-<br>
-### Environment
+## STACK 📚
 
 <br>
+
+### Environment
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+<br>
+
 ### Config
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">
+
+<br>
 
 ### Development
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Django-2496ED?style=for-the-badge&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions S3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=Material UI&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Django-2496ED?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions S3&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=Material UI&logoColor=white">
 
 <br>
 
@@ -108,9 +105,7 @@ $ yarn dev
 <br>
 
 ### Communtication & Tool
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
 <br>
 
 
@@ -134,7 +129,7 @@ $ yarn dev
 <br>
 <br>
 
-## 팀원소개
+## 팀원소개 - ETT
 
 |팀원|역할|이메일|
 |----|---|----|
