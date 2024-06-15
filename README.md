@@ -1,27 +1,32 @@
 # DISLODGED
 
-TTS 기술을 활용한 가상보이스 위로 전달 웹서비스
-![ETTlogo](https://github.com/ETT-DISLODGED/.github/assets/110734087/3bcfecb8-f842-4e5e-b9f8-c0f91be8db15)
+##TTS 기술을 활용한 가상보이스 위로 전달 웹서비스
+
+![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
 
 ---
 
 
 
 
-## ✨개발 환경 및 실행(테스트) 방법
+## ⭐개발 환경 및 실행(테스트) 방법⭐
 
 ### (1) 개발 환경
 - Django v4.1 , React v18.2.0
+  
+
+### (2-2) 웹주소로 접속하기
+[DISLODGED](https://dig67j0e4fk0c.cloudfront.net/)
 
 
-### (2) frontend 레포에서 코드 zip 파일 다운 시
+### (2-2) frontend 레포에서 코드 zip 파일 다운 시
 - a. VSCode에서 폴더 열기
 - b. 터미널 실행
 - c. 터미널 창에 $ yarn dev 입력
-- 출력된 링크를 통해 local에서 접속 가능
+- 출력된 링크를 통해 local에서도 접속 가능
 
 
-### (3) 테스트 계정
+### (3) 테스트 계정(처음부터 서비스를 사용하고 싶다면 회원가입부터 진행)
 - 아이디 : dislodged
 - 비밀번호 : 1234
 
@@ -57,6 +62,8 @@ from 이화여대 컴퓨터공학과
 - 대면 소통에 비해 감정 전달이 어려워 유저들이 고립감을 느끼기 쉬움.
 
 ## ⭐해결책⭐
+- 논문을 통해 ‘목소리’ 가 사람의 정서에 미치는 높은 영향력을 파악하였고, 텍스트에 더불어 ‘보이스 위로’를 함께 전하는 색다른 해결책 제안.
+![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/4cf7914a-8410-4262-b98d-d72d072acefc)
 
 
 ## ⭐서비스 구조도 및 유저 플로우⭐
@@ -66,25 +73,25 @@ from 이화여대 컴퓨터공학과
 
 
 
-## ✨기능 소개
-
-| 기능| 설명 |
-|----|---|
-| UserInformation | We received usable areas of body and physical ability level from “unable to sit” to “able to run” information from the user for personal exercise recommendation |
-| Exercise Recommendation | We recommend personalized exercise for physically disabled people, based on the physical information they provided |
-| Bookmark | Users can add preferred exercises to their bookmark list |
-| Exercise Detail | Users are provided with detailed informaton additional to the name of the exercise, such as difficulty, description and caution |
-| ToCalendar(plannedtime) | Users can see, add or delete their plans from the calendar |
-| Progressbar(donetime) | User can add the time they actually performed the exercise and it’s shown in the progress bar |
-| Stopwatch | This feature can make it easier for users to check the time they exercised |
+## ⭐전체 기능 리스트⭐
+![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e)
 
 
+## ⭐주요 기능 로직 및 UI 소개⭐
 
-## ✨포스터
+(1) 내 게시글의 댓글들 모아듣기 기능
 
+![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/939a5dd7-666b-4efc-853e-d3421658804b)
+
+(2) 유저별 맞춤 가상 보이스 추천 기능
+
+![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/ca2c7814-3762-40d4-bdd9-e1767a83388b)
+
+
+## ⭐포스터⭐
 ![포스터이미지](https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03)
 
 
 
 ## 👽데모영상
-[](https://youtu.be/Oa4Ahn5jxvA?si=S6r09PAkPja_Aum5)
+[데모영상링크](https://www.youtube.com/watch?v=E3e9SRJPGZM)
