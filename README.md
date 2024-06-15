@@ -101,11 +101,11 @@ from 이화여대 컴퓨터공학과
 ## ⭐서비스 구조도 및 유저 플로우
 
 - 서비스 전체구조도<br>
-<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257"  width="800" >
+<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257"  width="600" >
 <br>
 <br>
 - 유저 플로우 차트<br>
-<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d9b1538b-86a1-41de-bdc7-2c2f36ab9c1b"  width="800" >
+<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d9b1538b-86a1-41de-bdc7-2c2f36ab9c1b"  width="600" >
 
 <br>
 
