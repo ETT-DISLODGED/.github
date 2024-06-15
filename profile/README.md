@@ -50,7 +50,7 @@
 <br>
 
 
-## 시작가이드
+## 시작가이드 🖥️
 
 ### (1) 개발 환경
 - Django v4.1 
@@ -130,7 +130,7 @@ $ yarn dev
 <br>
 <br>
 
-## 팀원소개 - ETT
+## 팀원소개 - ETT 💛
 
 |팀원|역할|이메일|
 |----|---|----|
@@ -159,15 +159,16 @@ from 이화여대 컴퓨터공학과
 
 
 
-## 전체 기능 리스트
+## 전체 기능 리스트 📝
 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e"  width="800" >
 
 
+
 <br>
 <br>
 
-## 주요 기능 로직 및 UI 소개
+## 주요 기능 로직 및 UI 소개 ⭐
 <br>
 
 (1) 내 게시글의 댓글들 모아듣기 기능
@@ -191,7 +192,7 @@ from 이화여대 컴퓨터공학과
 
 <br>
 
-## 데모영상
+## 데모영상 ▶️
 <br>
 [데모영상보러가기기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
 <br>
