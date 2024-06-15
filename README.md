@@ -1,6 +1,6 @@
 # DISLODGED
 
-## TTS 기술을 활용한 가상보이스 위로 전달 웹서비스
+: TTS 기술을 활용한 가상보이스 위로 전달 웹서비스
 
 ![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
 
