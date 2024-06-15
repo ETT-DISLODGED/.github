@@ -30,9 +30,10 @@ Frontend 레포에서 코드 zip 파일 다운 후
 - b. 터미널 실행
 - c. 터미널 창에 **$ yarn** 명령어 입력하여 패키지 다운로드 진행
 - d. 다운로드 후 **$ yarn dev** 명령어 입력하여 build 진행
-- [pacakge.json이 폴더에 존재하지 않는다고 뜨는 경우 → 현재 폴더 확인해보기
+  **pacakge.json이 폴더에 존재하지 않는다고 뜨는 경우 → 현재 위치한 폴더 확인하기
   <br>
-  ( **$ cd frontend-main** 으로 pagkage.json이 있는 폴더로 들어가기)
+  ( 폴더 위치가 잘못된 경우, **$ cd frontend-main** 으로 해결 가능하고, 해결 후 **c단계부터 재진행)
+  <br>
 - e. 출력된 링크에 접속하여 local에서 실행 가능
 
 <br>
