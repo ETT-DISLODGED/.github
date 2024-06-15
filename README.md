@@ -108,15 +108,17 @@ from 이화여대 컴퓨터공학과
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d9b1538b-86a1-41de-bdc7-2c2f36ab9c1b"  width="600" >
 
 <br>
-
+<br>
 
 
 
 
 ## ⭐전체 기능 리스트
+<br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e"  width="800" >
 
 
+<br>
 <br>
 
 ## ⭐주요 기능 로직 및 UI 소개
@@ -133,15 +135,18 @@ from 이화여대 컴퓨터공학과
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/ca2c7814-3762-40d4-bdd9-e1767a83388b"  width="800" >
 
 <br>
+<br>
 
 ## ⭐포스터
-*캡스톤디자인 포스터세션에 제출했던 포스터입니다. <br>
+<br>
+*캡스톤디자인 포스터세션에 제출했던 포스터입니다.
+<br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03"  width="700" >
 
 <br>
 
 ## 👽데모영상
-
+<br>
 [데모영상보러가기기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
 <br>
 <br>
