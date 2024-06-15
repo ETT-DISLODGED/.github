@@ -194,6 +194,8 @@ from 이화여대 컴퓨터공학과
 
 ## 데모영상 ▶️
 <br>
-[데모영상보러가기기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
+
+[DISLODGED 데모 영상 시청하러 가기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
+
 <br>
 <br>
