@@ -4,7 +4,7 @@
 
 ![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
 
-[DISLODGED사이트주소](https://dig67j0e4fk0c.cloudfront.net/)
+➡️➡️ [DISLODGED사이트주소](https://dig67j0e4fk0c.cloudfront.net/)
 
 <br>
 <br>
@@ -33,9 +33,11 @@
 
 <br>
 
-2.기존 텍스트 기반 위로의 한계점 파악
-가독성 저하 등 위로에 대한 방해 요소 존재
-대면 소통에 비해 감정 전달이 어려워 유저들이 고립감을 느끼기 쉬움.
+2.기존 텍스트 기반 위로의 한계점 파악 
+<br>
+- 가독성 저하 등 위로에 대한 방해 요소 존재
+<br>
+- 대면 소통에 비해 감정 전달이 어려워 유저들이 고립감을 느끼기 쉬움.
 <br>
 <br>
 
