@@ -1,6 +1,6 @@
 # DISLODGED
 
-: TTS 기술을 활용한 가상보이스 위로 전달 웹서비스
+: TTS 기술을 활용한 가상보이스 위로 전달 웹서비스🎧💽
 
 ![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
 
@@ -17,7 +17,7 @@
   
 
 ### (2-2) 웹주소로 접속하기
-[DISLODGED](https://dig67j0e4fk0c.cloudfront.net/)
+[DISLODGED웹사이트](https://dig67j0e4fk0c.cloudfront.net/)
 
 
 ### (2-2) frontend 레포에서 코드 zip 파일 다운 시
@@ -35,11 +35,12 @@
 
 📅2023.09 - 2024.06
 
-|~2023.11| 아이디에이션|
+|~2023.11| 아이디에이션 및 설문조사 진행|
 |----|---|
-|7| 7|
-|7| 7|
-|7| 6|
+|~2023.12 |서비스 세부 기능 확정 및 UI 설계|
+|2024.1~2024.3|추천 기능 제외 서비스 개발 완료|
+|~2024.5|모든 기능 구현 완료 및 배포 진행|
+|2024.6.7|졸업 발표 진행|
 
 
 ## 👩‍👧‍👦ETT - 팀원소개
@@ -90,9 +91,10 @@ from 이화여대 컴퓨터공학과
 
 
 ## ⭐포스터⭐
+*캡스톤디자인 포스터세션에 제출했던 포스터입니다.
 ![포스터이미지](https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03)
 
 
 
 ## 👽데모영상
-[데모영상링크](https://www.youtube.com/watch?v=E3e9SRJPGZM)
+[데모영상보러가기기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
