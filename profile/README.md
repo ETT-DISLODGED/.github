@@ -25,6 +25,10 @@
 <br>
 <br>
 
+---
+
+<br>
+
 ## 문제정의 🗯️
 1. 많은 현대인들이 현실에서 다양한 고민을 솔직하게 표출하는 것에 어려움을 겪고 있는 것과 익명 커뮤니티의 높은 이용률을 확인
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/c6e21341-d0a8-44d3-ae70-4d778b17a308"  width="800" >
