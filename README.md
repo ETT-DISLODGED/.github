@@ -10,23 +10,30 @@
 
 
 
-## ⭐개발 환경 및 실행(테스트) 방법⭐
+## ⭐개발 환경 및 실행(테스트) 방법
 
 ### (1) 개발 환경
 - Django v4.1 , React v18.2.0
 
 <br>
 
-### (2-2) 웹주소로 접속하기
+#### (2) How to start?
+아래 웹주소로 접속하기
 [DISLODGED웹사이트](https://dig67j0e4fk0c.cloudfront.net/)
 
 <br>
 
-### (2-2) frontend 레포에서 코드 zip 파일 다운 시
-- a. VSCode에서 폴더 열기
+#### (3) How to install and build?
+
+Frontend 레포에서 코드 zip 파일 다운 후
+- a. 압축을 풀고 VSCode에서 폴더 열기
 - b. 터미널 실행
-- c. 터미널 창에 $ yarn dev 입력
-- d. 출력된 링크에 접속하여 local에서 실행 가능
+- c. 터미널 창에 **$ yarn** 명령어 입력하여 패키지 다운로드 진행
+- d. 다운로드 후 **$ yarn dev** 명령어 입력하여 build 진행
+- [pacakge.json이 폴더에 존재하지 않는다고 뜨는 경우 → 현재 폴더 확인해보기
+  <br>
+  ( **$ cd frontend-main** 으로 pagkage.json이 있는 폴더로 들어가기)
+- e. 출력된 링크에 접속하여 local에서 실행 가능
 
 <br>
 
@@ -39,6 +46,7 @@
 
 ---
 
+<br>
 
 ### 프로젝트 타임라인
 
@@ -67,7 +75,7 @@ from 이화여대 컴퓨터공학과
 
 <br>
 
-## ⭐문제정의⭐
+## ⭐문제정의
 1.많은 현대인들이 현실에서 다양한 고민을 솔직하게 표출하는 것에 어려움을 겪고 있는 것과 익명 커뮤니티의 높은 이용률을 확인
 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/c6e21341-d0a8-44d3-ae70-4d778b17a308"  width="800" >
@@ -78,10 +86,10 @@ from 이화여대 컴퓨터공학과
 2. 텍스트 기반 위로의 한계점 파악
 - 가독성 저하 등 위로에 대한 방해 요소 존재
 - 대면 소통에 비해 감정 전달이 어려워 유저들이 고립감을 느끼기 쉬움.
+<br>
 
 
-
-## ⭐해결책⭐
+## ⭐해결책
 - 논문을 통해 ‘목소리’ 가 사람의 정서에 미치는 높은 영향력을 파악<br> → 텍스트와 ‘보이스 위로’를 함께 전하는 색다른 해결책 제안 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/4cf7914a-8410-4262-b98d-d72d072acefc"  width="800" >
 
@@ -89,7 +97,7 @@ from 이화여대 컴퓨터공학과
 <br>
 
 
-## ⭐서비스 구조도 및 유저 플로우⭐
+## ⭐서비스 구조도 및 유저 플로우
 
 - 서비스 전체구조도<br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257"  width="800" >
@@ -104,13 +112,13 @@ from 이화여대 컴퓨터공학과
 
 
 
-## ⭐전체 기능 리스트⭐
+## ⭐전체 기능 리스트
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e"  width="800" >
 
 
 <br>
 
-## ⭐주요 기능 로직 및 UI 소개⭐
+## ⭐주요 기능 로직 및 UI 소개
 <br>
 
 (1) 내 게시글의 댓글들 모아듣기 기능
@@ -125,7 +133,7 @@ from 이화여대 컴퓨터공학과
 
 <br>
 
-## ⭐포스터⭐
+## ⭐포스터
 *캡스톤디자인 포스터세션에 제출했던 포스터입니다. <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03"  width="700" >
 
