@@ -59,7 +59,8 @@ from 이화여대 컴퓨터공학과
 1.많은 현대인들이 다양한 고민을 안고 살아가고 있지만-, 현실에서 이를 솔직하게 표출하고 해소하는 것에 어려움을 겪고 있는 것과 익명 커뮤니티의 높은 이용률을 확인 
 ![KakaoTalk_20240614_162905631](https://github.com/ETT-DISLODGED/.github/assets/110734087/c6e21341-d0a8-44d3-ae70-4d778b17a308)
 
-
+<br>
+<br>
 
 2. 텍스트 기반 위로의 한계점 파악
 - 가독성 저하 등 위로에 대한 방해 요소 존재
@@ -71,39 +72,51 @@ from 이화여대 컴퓨터공학과
 - 논문을 통해 ‘목소리’ 가 사람의 정서에 미치는 높은 영향력을 파악하였고, 텍스트에 더불어 ‘보이스 위로’를 함께 전하는 색다른 해결책 제안.
 ![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/4cf7914a-8410-4262-b98d-d72d072acefc)
 
-
+<br>
+<br>
 
 
 ## ⭐서비스 구조도 및 유저 플로우⭐
 
+- 서비스 전체구조도
+![KakaoTalk_20240614_163202494](https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257)
+<br>
+<br>
+- 유저 플로우 차트
+
 ![KakaoTalk_20240614_163132868](https://github.com/ETT-DISLODGED/.github/assets/110734087/d9b1538b-86a1-41de-bdc7-2c2f36ab9c1b)
 
+<br>
 
 
-![KakaoTalk_20240614_163202494](https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257)
 
 
 
 ## ⭐전체 기능 리스트⭐
 ![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e)
 
+<br>
 
 ## ⭐주요 기능 로직 및 UI 소개⭐
-
+<br>
 (1) 내 게시글의 댓글들 모아듣기 기능
 
 ![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/939a5dd7-666b-4efc-853e-d3421658804b)
+<br>
 
 (2) 유저별 맞춤 가상 보이스 추천 기능
 
 ![image](https://github.com/ETT-DISLODGED/.github/assets/110734087/ca2c7814-3762-40d4-bdd9-e1767a83388b)
-
+<br>
 
 ## ⭐포스터⭐
 *캡스톤디자인 포스터세션에 제출했던 포스터입니다.
 ![포스터이미지](https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03)
 
-
+<br>
 
 ## 👽데모영상
+
 [데모영상보러가기기](https://www.youtube.com/watch?v=E3e9SRJPGZM)
+<br>
+<br>
