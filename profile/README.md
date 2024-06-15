@@ -4,7 +4,6 @@
 
 ![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
 
-➡️➡️ [DISLODGED사이트주소](https://dig67j0e4fk0c.cloudfront.net/)
 
 <br>
 <br>
