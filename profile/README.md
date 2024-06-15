@@ -13,10 +13,15 @@
 
 ## 목차
 - [문제정의 및 해결책(Background)](#문제정의)
+  <br>
 - [시작가이드(How to Build/Install)](#시작가이드)
-- [프로젝트타임라인(Timeline)](#프로젝트타임라인)
-- [팀원소개(About team member)](#팀원소개)
+  <br>
+- [프로젝트타임라인 및 팀원소개(Timeline)](#프로젝트타임라인)
+  <br>
+
+  <br>
 - [서비스구조도(Architecture & User flow)](#서비스구조도)
+  <br>
 - [포스터와 데모영상(Poster & Demo video)](#포스터)
 
 <br>
@@ -74,7 +79,47 @@ $ yarn dev
 
 <br>
 
-### 프로젝트타임라인
+
+## STACK
+<br>
+### Environment
+
+<br>
+### Config
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+### Development
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Django-2496ED?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions S3&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=Material UI&logoColor=white">
+
+<br>
+
+### API
+<img src="https://img.shields.io/badge/Google TTS-6380E5?style=for-the-badge&logo=Google TTS&logoColor=white">
+<br>
+
+### Communtication & Tool
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
+<br>
+
+
+
+
+
+
+
+## 프로젝트타임라인
 
 📅2023.09 - 2024.06
 
