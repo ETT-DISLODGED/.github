@@ -18,7 +18,9 @@
   <br>
 - [스택(Stack)](#스택)
   <br>
-- [서비스구조도(Architecture & User flow)](#서비스구조도)
+- [서비스구조(Architecture & User flow)](#서비스구조)
+  <br>
+- [기능소개](#전체기능리스트)
   <br>
 - [포스터와 데모영상(Poster & Demo video)](#포스터)
 
@@ -29,7 +31,7 @@
 
 <br>
 
-## 문제정의 🗯️
+## 문제정의 
 1. 많은 현대인들이 현실에서 다양한 고민을 솔직하게 표출하는 것에 어려움을 겪고 있는 것과 익명 커뮤니티의 높은 이용률을 확인
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/c6e21341-d0a8-44d3-ae70-4d778b17a308"  width="800" >
 
@@ -42,7 +44,7 @@
 <br>
 <br>
 
-## 해결책 💡
+## 해결책 
 - 논문을 통해 ‘목소리’ 가 사람의 정서에 미치는 높은 영향력을 파악<br> → 텍스트와 ‘보이스 위로’를 함께 전하는 색다른 해결책 제안 <br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/4cf7914a-8410-4262-b98d-d72d072acefc"  width="800" >
 
@@ -50,7 +52,7 @@
 <br>
 
 
-## 시작가이드 🖥️
+## 시작가이드 
 
 ### (1) 개발 환경
 - Django v4.1 
@@ -83,7 +85,7 @@ $ yarn dev
 <br>
 
 
-## STACK 📚
+## 스택
 
 <br>
 
@@ -144,13 +146,15 @@ from 이화여대 컴퓨터공학과
 
 
 
-## 서비스 구조도 및 유저 플로우
+## 서비스구조
 
-- 서비스 전체구조도<br>
+- 서비스 전체구조도
+
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/f2c30a70-12c4-4c4a-a2f2-0582888c9257"  width="600" >
 <br>
 <br>
-- 유저 플로우 차트<br>
+
+- 유저 플로우 차트
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d9b1538b-86a1-41de-bdc7-2c2f36ab9c1b"  width="600" >
 
 <br>
@@ -159,8 +163,9 @@ from 이화여대 컴퓨터공학과
 
 
 
-## 전체 기능 리스트 📝
+## 전체기능리스트 
 <br>
+
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/d875e3f9-7f94-4ea9-9b0b-580c9160de0e"  width="800" >
 
 
@@ -173,12 +178,14 @@ from 이화여대 컴퓨터공학과
 
 (1) 내 게시글의 댓글들 모아듣기 기능
 <br>
+
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/939a5dd7-666b-4efc-853e-d3421658804b"  width="800" >
 
 <br>
 
 (2) 유저별 맞춤 가상 보이스 추천 기능
 <br>
+
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/ca2c7814-3762-40d4-bdd9-e1767a83388b"  width="800" >
 
 <br>
@@ -186,8 +193,11 @@ from 이화여대 컴퓨터공학과
 
 ## 포스터
 <br>
+
 *캡스톤디자인 포스터세션에 제출했던 포스터입니다.
+
 <br>
+
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03"  width="700" >
 
 <br>
