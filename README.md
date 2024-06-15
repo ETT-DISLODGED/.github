@@ -51,6 +51,8 @@
 |~2024.5|모든 기능 구현 완료 및 배포 진행|
 |2024.6.7|졸업 발표 진행|
 
+<br>
+<br>
 
 ## 👩‍👧‍👦ETT - 팀원소개
 
@@ -109,19 +111,22 @@ from 이화여대 컴퓨터공학과
 
 ## ⭐주요 기능 로직 및 UI 소개⭐
 <br>
-(1) 내 게시글의 댓글들 모아듣기 기능<br>
+
+(1) 내 게시글의 댓글들 모아듣기 기능
+<br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/939a5dd7-666b-4efc-853e-d3421658804b"  width="800" >
 
 <br>
 
-(2) 유저별 맞춤 가상 보이스 추천 기능<br>
+(2) 유저별 맞춤 가상 보이스 추천 기능
+<br>
 <img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/ca2c7814-3762-40d4-bdd9-e1767a83388b"  width="800" >
 
 <br>
 
 ## ⭐포스터⭐
 *캡스톤디자인 포스터세션에 제출했던 포스터입니다. <br>
-<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03"  width="900" >
+<img src="https://github.com/ETT-DISLODGED/.github/assets/110734087/2339438d-130e-4aee-8291-d1271b8c3f03"  width="700" >
 
 <br>
 
