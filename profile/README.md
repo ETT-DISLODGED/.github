@@ -136,9 +136,9 @@ $ yarn dev
 
 |팀원|역할|이메일|💛|
 |----|---|----|---|
-|최유미|Backend|jain53791226@gmail.com| <img src= "(https://github.com/ETT-DISLODGED/.github/assets/110734087/b02533ea-b281-4058-9d39-e913fb909cfc)" width="100" > |
-|남승현|Frontend|0311alice@gmail.com| <img src= "(https://github.com/ETT-DISLODGED/.github/assets/110734087/be133d83-e095-4f1e-9cec-959060814e01)" width="100" >|
-|송민경|Frontend|smk11602@ewhain.net| <img src= "(https://github.com/ETT-DISLODGED/.github/assets/110734087/c58a5056-1b45-4136-af3f-99480f165256)" width="100" >|
+|최유미|Backend|jain53791226@gmail.com| <img src= "![KakaoTalk_20240617_194509910](https://github.com/ETT-DISLODGED/.github/assets/110734087/b02533ea-b281-4058-9d39-e913fb909cfc)" width="100" > |
+|남승현|Frontend|0311alice@gmail.com| <img src= "![KakaoTalk_20240618_124839825](https://github.com/ETT-DISLODGED/.github/assets/110734087/be133d83-e095-4f1e-9cec-959060814e01)" width="100" >|
+|송민경|Frontend|smk11602@ewhain.net| <img src= "![KakaoTalk_20240618_125110257](https://github.com/ETT-DISLODGED/.github/assets/110734087/c58a5056-1b45-4136-af3f-99480f165256)" width="100" >|
 
 from 이화여대 컴퓨터공학과
 
