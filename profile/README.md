@@ -2,7 +2,8 @@
 
 팀 ETT의 TTS 기술을 활용한 가상보이스 위로 전달 웹서비스🎧💽<br>
 
-![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/d19e4d55-463e-4c23-a7eb-aa86d8bfedfd)
+![Vector (2)](https://github.com/ETT-DISLODGED/.github/assets/110734087/eaa1b6ad-4ef0-4a84-a38a-10b8ca2a7e2a)
+
 
 
 <br>
@@ -86,15 +87,17 @@ $ source <가상환경 이름>/Scripts/activate
 $ pip install -r requirements.txt
 
 # .env 파일 생성 후 아래 내용 입력
-DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,[::1]
-DJANGO_SECRET_KEY=<secret key> # https://miniwebtool.com/django-secret-key-generator/에서 생성 가능
+DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,[::1],172.29.0.3
+DJANGO_SECRET_KEY=4ek91+yiel*srou%@my^hvr*g=u6axs1d9y8uaopvl#k$1jj4x
 
-# DB 생성
-DATABASE_NAME=dislodged_project 
+DATABASE_NAME=dislodged_project
 DATABASE_USER=root
-DATABASE_PASSWORD=<mysql 비밀번호>
+DATABASE_PASSWORD=yumi1226
 DATABASE_HOST=localhost
 DATABASE_PORT=3306
+
+# TTS 환경변수(local) -> dev 버전은 따로 올림
+GOOGLE_APPLICATION_CREDENTIALS=파일일경로/dislodged-tts-project-11e592a89e01.json
 
 # 실행
 $ python manage.py runserver
