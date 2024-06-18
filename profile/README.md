@@ -72,34 +72,12 @@ $ yarn
 $ yarn dev
 ```
 
-### (2-2) 백 실행방법(Installation) 
+### (2-2) 백 실행방법(Installation) - 제출한 ZIP 파일 다운 
 
 ```
-$git clone -b dev https://github.com/ETT-DISLODGED/backend.git
-$cd backend
-
-#가상환경 생성(window 버전)
-$ python -m venv <가상환경 이름>
-#가상환경 실행
-$ source <가상환경 이름>/Scripts/activate
-
-# 라이브러리 설치
+$ source myvenv/Scripts/activate
+$ cd dislodged_project
 $ pip install -r requirements.txt
-
-# .env 파일 생성 후 아래 내용 입력
-DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,[::1],172.29.0.3
-DJANGO_SECRET_KEY=4ek91+yiel*srou%@my^hvr*g=u6axs1d9y8uaopvl#k$1jj4x
-
-DATABASE_NAME=dislodged_project
-DATABASE_USER=root
-DATABASE_PASSWORD=yumi1226
-DATABASE_HOST=localhost
-DATABASE_PORT=3306
-
-# TTS 환경변수(local) -> dev 버전은 따로 올림
-GOOGLE_APPLICATION_CREDENTIALS=파일일경로/dislodged-tts-project-11e592a89e01.json
-
-# 실행
 $ python manage.py runserver
 
 ```
