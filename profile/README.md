@@ -61,7 +61,7 @@
 
 <br>
 
-### (2) 실행방법(Installation)
+### (2-1) 프론트 실행방법(Installation)
 install it locally using **yarn**
 
 ```
@@ -69,6 +69,36 @@ $ git clone https://github.com/ETT-DISLODGED/frontend
 $ cd frontend
 $ yarn
 $ yarn dev
+```
+
+### (2-2) 백 실행방법(Installation) 
+
+```
+$git clone -b dev https://github.com/ETT-DISLODGED/backend.git
+$cd backend
+
+#가상환경 생성(window 버전)
+$ python -m venv <가상환경 이름>
+#가상환경 실행
+$ source <가상환경 이름>/Scripts/activate
+
+# 라이브러리 설치
+$ pip install -r requirements.txt
+
+# .env 파일 생성 후 아래 내용 입력
+DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,[::1]
+DJANGO_SECRET_KEY=<secret key> # https://miniwebtool.com/django-secret-key-generator/에서 생성 가능
+
+# DB 생성
+DATABASE_NAME=dislodged_project 
+DATABASE_USER=root
+DATABASE_PASSWORD=<mysql 비밀번호>
+DATABASE_HOST=localhost
+DATABASE_PORT=3306
+
+# 실행
+$ python manage.py runserver
+
 ```
 
 
